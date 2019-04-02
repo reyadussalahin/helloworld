@@ -3,3 +3,7 @@
 (2) It's better to explore, always.
 
 (3) It's better to quit, always.
+
+(4) Expectation kills.
+
+(5) There's always error.
