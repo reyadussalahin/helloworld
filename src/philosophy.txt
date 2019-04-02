@@ -3,5 +3,3 @@
 (2) It's better to explore, always.
 
 (3) It's better to quit, always.
-
-(4) It's created from a long chain, but has a shorter life cycle.
