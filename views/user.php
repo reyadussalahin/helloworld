@@ -6,7 +6,7 @@
                     <div class="main-msg">
                         Hello, <span style="color: #007bff; font-weight: 600;"><?= $_view('username'); ?>...</span>
                     </div>
-                    <div class="welcome-msg">
+                    <div class="welcome-msg text-success">
                         Welcome to Hello, world!
                     </div>
                 </div>
