@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/circleci/build/github/reyadussalahin/helloworld?style=flat-square)](https://circleci.com/gh/reyadussalahin/helloworld/tree/master)
+[![Build Status](https://img.shields.io/circleci/build/gh/reyadussalahin/helloworld/master?style=flat-square)](https://circleci.com/gh/reyadussalahin/helloworld/tree/master)
 [![License](https://img.shields.io/github/license/reyadussalahin/helloworld?color=teal&style=flat-square)](https://github.com/reyadussalahin/helloworld/blob/master/LICENSE)
 
 # helloworld
