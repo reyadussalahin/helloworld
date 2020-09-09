@@ -13,6 +13,6 @@ class AppTest extends TestCase {
 
     public function testFullhost() {
         $app = new App("base_dir");
-        $this->assertEquals("https://localhost:8000", $app->fullhost());
+        $this->assertEquals("http://localhost:8000", $app->fullhost());
     }
 }
